@@ -50,7 +50,7 @@
   },
   "dependencies": {
     "@ngx-translate/core": "^15.0.0",
-    "@slickgrid-universal/common": "~4.4.1",
+    "@slickgrid-universal/common": "https://github.com/sanjeevkumar12/slickgrid-universal.git",
     "@slickgrid-universal/custom-footer-component": "~4.4.1",
     "@slickgrid-universal/empty-warning-component": "~4.4.1",
     "@slickgrid-universal/event-pub-sub": "~4.4.1",
